@@ -1,1 +1,1 @@
-# Algum algoritmos de ordenção e logica
+# Alguns algoritmos de ordenção e logica
